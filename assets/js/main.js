@@ -35,7 +35,7 @@
 
 /* ----- TYPING EFFECT ----- */
    var typingEffect = new Typed(".typedText",{
-      strings : [" Software Engineering student "," Software Engineering student "," Software Engineering student "],
+      strings : [" a Fullstack Software Engineer"," a Fullstack Software Engineer "," a Fullstack Software Engineer"],
       loop : true,
       typeSpeed : 100, 
       backSpeed : 80,
